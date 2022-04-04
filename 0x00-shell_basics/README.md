@@ -1,2 +1,1 @@
-#!/bin/bash
-alx system engineering devops
+0-current_working_directory - prints working directory
