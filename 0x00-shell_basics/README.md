@@ -6,3 +6,4 @@
 5-listfilesdigitonly - display current dir contents in long format
 6-firstdirectory - creates a directory named my_first_directory in the /tmp/ directory
 7-movethatfile - betty in my first dir
+8-firstdelete - bye bye betty
