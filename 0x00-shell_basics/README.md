@@ -8,3 +8,4 @@
 7-movethatfile - betty in my first dir
 8-firstdelete - bye bye betty
 9-firstdirdeletion - bye my fisrst directory
+10-back - change working directory to previous one
