@@ -1,2 +1,1 @@
-#!/bin/bash
-alx system engineering devops
+This will explain what each script is doing
